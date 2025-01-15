@@ -36,4 +36,9 @@
 ## 后续更新
 目前 `Smartisan 1.71.hwt` 处于各方面都比较完善的版本，可以直接使用。后续的更新和微调也会在这个基础上进行。假设时间允许，会逐步基于Smartisan OS原版的风格重绘华为原生图标以替代当前部分meeye的图标，更新日志也会在这个板块写明。
 
-- **Smartisan 1.71.hwt** : 当前的基础稳定可用版本
+- **Smartisan 1.71.hwt** : 当前的基础稳定可用版本 （2024-12-29）
+
+- **Smartisan 1.72.hwt** : 为所有图标添加了合适的阴影，在纯色或浅色背景下有更加立体的表现 （2025-1-14）
+<p align="center">
+  <img src="photos/1.72update.jpg" alt="Original Image" width="550">
+</p>
