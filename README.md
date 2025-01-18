@@ -43,7 +43,7 @@
   <img src="photos/1.72update.jpg" alt="Original Image" width="550">
 </p>
 
-- **Smartisan 1.73.hwt** : 对第三方图标的处理进行了调整，让阴影和高光效果更加和谐；对文件夹大小和阴影进行优化，整体性更加一致（2025-1-18）
+- **Smartisan 1.73.hwt** : 对第三方未重绘图标的处理进行了调整，让阴影，高光，以及图标大小效果更加和谐；对文件夹大小和阴影进行优化，整体性更加一致；改用锤子经典蓝色背景作为桌面壁纸和锁屏壁纸（2025-1-18）
 <p align="center">
   <img src="photos/1.73update.jpg" alt="Original Image" width="550">
 </p>
